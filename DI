@@ -1,1 +1,3 @@
 https://xuanthulab.net/asp-net-core-cau-hinh-ung-dung-web-appsettings-json-va-inject-option-cho-cac-dich-vu-c-csharp.html
+
+https://xuanthulab.net/asp-net-core-dang-ky-dich-vu-vao-iservicecollection-va-inject-cac-dich-vu-c-csharp.html
