@@ -4,3 +4,5 @@ https://xuanthulab.net/dependency-injection-di-trong-c-voi-servicecollection.htm
 
 
 https://xuanthulab.net/asp-net-core-dang-ky-dich-vu-vao-iservicecollection-va-inject-cac-dich-vu-c-csharp.html
+
+https://medium.com/old-dev/asp-net-core-dependency-injection-c2624934581f
